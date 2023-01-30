@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description= f.read()
 __version__="0.0.0"
-REPO_NAME="News_Scraping"
+REPO_NAME="news_scraping"
 AUTHOR_USER_NAME="Amir4786"
 SRC_REPO="News_Scraping"
 AUTHOR_EMAIL="er.a.khan47@gmail.com"
